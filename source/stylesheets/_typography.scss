@@ -1,0 +1,32 @@
+body {
+  font-family: "Balto";
+  font-size: 18px;
+}
+
+a {
+  color: $text-color;
+  text-decoration: none;
+
+  &:hover {
+    color: $highlight-color;
+  }
+}
+
+p a,
+li a {
+  text-decoration: underline;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 1em;
+}
+
+p,
+ul {
+  line-height: 1.5em;
+}
+
+p.emphasis {
+  font-size: 1.5em;
+}

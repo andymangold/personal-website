@@ -1,0 +1,99 @@
+podcasts:
+  -
+    title: "A Life Well Wasted"
+    creator: "Robert Ashley"
+    description: "A beautifully produced very occasional show about video games and the culture surrounding them. It captures the human interest of an emergent art form and mixes storytelling and journalism with music written and produced by the host. As a bonus, each episode is embodied into a poster designed by Olly Moss."
+  -
+    title: "You Look Nice Today"
+    creator: "Merlin Mann, Scott Simpson, and Adam Lisagor"
+    description: "You Look Nice Today, a 'journal of emotional hygiene' is a show that never explains itself. Each episode drops the listener in media res with only the occasional prerecorded interstitials of John Hodgman reading single lines of pseudo found poetry to break up the conversation between the three friends. The show moves freely between 'normal' conversation and improvisational brainstorming of products and solutions for some unnamed entity, or the show itself, under the guise of a business. The show is edited in a unique and subtle way that skirts on surrealism, sometimes making the listener certain they have missed something, in a good way."
+  -
+    title: "The Flophouse"
+    creator: "Dan McCoy, Stewart Wellington, and Elliot Kalan"
+    description: "Funny movie talk."
+  -
+    title: "Roderick on the Line"
+    creator: "John Roderick and Merlin Mann"
+    description: "John is a rock star and Merlin is a nerd and productivity evangelist."
+  -
+    title: "My Brother, My Brother, and Me"
+    creator: "Justin, Travis, and Griffin McElroy"
+    description: "Funny brothers grow and become more accepting over the history of their show."
+books:
+  -
+    title: "The Beginning of Infinity"
+    author: "David Deutsch"
+    referred_by: "David Cole and Mills Baker"
+    description: "Theoretical physics but actually so much more!"
+  -
+    title: "The Traditional Way of Building"
+    author: "Christopher Alexander"
+    referred_by: "Zach Klein and Derek Lasher"
+    description: "Patterns in architecture and urban design, but so much more!"
+  -
+    title: "A Pattern Language"
+    author: "Christopher Alexander"
+    referred_by: "Zach Klein and Derek Lasher"
+    description: "Patterns in architecture and urban design, but so much more!"
+  -
+    title: "The Oregon Experiment"
+    author: "Christopher Alexander"
+    referred_by: "Zach Klein and Derek Lasher"
+    description: "Patterns in architecture and urban design, but so much more!"
+  -
+    title: "The Design of Design"
+    author: "Frederick P. Brooks"
+    description: "A book about design and the design of design and the design of design of design."
+  -
+    title: "The Complete Calvin and Hobbes"
+    author: "Bill Watterson"
+    description: "The best book in the history of the whole world."
+games:
+  -
+    title: "Minecraft"
+    description: "Build things with blocks."
+articles:
+  -
+    title: "The Last Viridian Note"
+    author: "Bruce Sterling"
+    description: "A piece of writing about material culture and life in general."
+  -
+    title: "The Case for Reparations"
+    author: "Ta-Nehisi Coates"
+    description: "Excellent short history of race in America"
+  -
+    title: "The Playboy Interview: Marshall McLuhan"
+    description: "Smart stuff, not smut stuff!"
+web:
+  -
+    title: "TV Tropes"
+    description: "The best thing."
+  -
+    title: "XKCD: What If?"
+    creator: "Randall Munroe"
+  -
+    title: "Wolfram Alpha"
+    creator: "Stephen Wolfram"
+movies:
+  -
+    title: "Primer"
+  -
+    title: "Annie Hall"
+music:
+  -
+    artist: "WHY?"
+    album: "Alopecia"
+  -
+    artist: "Kanye West"
+    album: "My Beautiful Dark Twisted Fantasy"
+  -
+    artist: "Earl Sweatshirt"
+    album: "Doris"
+  -
+    artist: "J Dilla"
+    album: "Donuts"
+television:
+  -
+    title: "Look Around You"
+  -
+    title: "Star Trek: The Next Generation"

@@ -48,6 +48,10 @@ books:
     title: "The Complete Calvin and Hobbes"
     author: "Bill Watterson"
     description: "The best book in the history of the whole world."
+  -
+    title: "On Writing Well"
+    author: "William Zinsser"
+    description: "About writing, but also design."
 games:
   -
     title: "Minecraft"

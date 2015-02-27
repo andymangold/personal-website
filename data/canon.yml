@@ -78,6 +78,9 @@ web:
   -
     title: "Wolfram Alpha"
     creator: "Stephen Wolfram"
+  -
+    title: "This to That"
+    creator: ""
 movies:
   -
     title: "Primer"
@@ -99,5 +102,11 @@ music:
 television:
   -
     title: "Look Around You"
+    description: "Fake science"
   -
     title: "Star Trek: The Next Generation"
+    description: "Everything good about humanity."
+software:
+  -
+    title: "Calca"
+    description: "Magic app"

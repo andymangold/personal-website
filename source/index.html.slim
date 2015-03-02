@@ -27,4 +27,9 @@ ul
   li <a href="https://www.youtube.com/watch?v=e1dRxyc9Dt4">BohConf</a> (Summer 2013)
   li <a href="http://vimeo.com/70564814"><i>After the Jump</i> presented by the Type Directors Club</a> (Summer 2013)
 
-
+h3 Recommendations
+- data.canon.each do |category|
+  h3 = category.title
+  ul
+    - category.items.each do |recommendation|
+      li = recommendation.title

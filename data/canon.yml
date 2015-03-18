@@ -4,13 +4,14 @@
     -
       title: "A Life Well Wasted"
       creator: "Robert Ashley"
-      description: "A beautifully produced very occasional show about video games and the culture surrounding them. It captures the human interest of an emergent art form and mixes storytelling and journalism with music written and produced by the host. As a bonus, each episode is embodied into a poster designed by Olly Moss."
+      description: "Video game culture but not trashy"
     -
       title: "You Look Nice Today"
       creator: "Merlin Mann, Scott Simpson, and Adam Lisagor"
-      description: "You Look Nice Today, a 'journal of emotional hygiene' is a show that never explains itself. Each episode drops the listener in media res with only the occasional prerecorded interstitials of John Hodgman reading single lines of pseudo found poetry to break up the conversation between the three friends. The show moves freely between 'normal' conversation and improvisational brainstorming of products and solutions for some unnamed entity, or the show itself, under the guise of a business. The show is edited in a unique and subtle way that skirts on surrealism, sometimes making the listener certain they have missed something, in a good way."
+      description: "A journal of emotional hygiene."
     -
       title: "The Flophouse"
+      referred_by: "Merlin Mann"
       creator: "Dan McCoy, Stewart Wellington, and Elliot Kalan"
       description: "Funny movie talk."
     -
@@ -50,6 +51,7 @@
     -
       title: "On Writing Well"
       author: "William Zinsser"
+      referred_by: "Merlin Mann"
       description: "About writing, but also design."
 -
   title: "Games"
@@ -60,6 +62,9 @@
     -
       title: "Carcassonne"
       description: "Build a map one block at a time."
+    -
+      title: "Threes"
+      description: "A tiny puzzle that grows on you."
 -
   title: "Articles"
   items:
@@ -73,6 +78,7 @@
       description: "Excellent short history of race in America"
     -
       title: "The Playboy Interview: Marshall McLuhan"
+      referred_by: "Kacy McAllister"
       description: "Smart stuff, not smut stuff!"
 -
   title: "Web"
@@ -94,8 +100,10 @@
   items:
     -
       title: "Primer"
+      description: "Pure essence of sci-fi time travel"
     -
       title: "Annie Hall"
+      description: "Woody Allen Make a Movie"
 -
   title: "Music"
   items:
@@ -126,3 +134,13 @@
     -
       title: "Calca"
       description: "Magic app"
+    -
+      title: "Timehop"
+      description: "Makes you hate yourself but in a good way."
+-
+  title: "Miscellaneous"
+  items:
+    -
+      title: "Longmont Potion Castle"
+      description: "Surreal prank phone calls"
+      referred_by: "Bruce Willen and Nolen Strals of PostTypography"

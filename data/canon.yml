@@ -65,6 +65,9 @@
     -
       title: "Threes"
       description: "A tiny puzzle that grows on you."
+    -
+      title: "Chronotrigger"
+      description: "Best RPG"
 -
   title: "Articles"
   items:
@@ -119,6 +122,9 @@
     -
       artist: "J Dilla"
       title: "Donuts"
+    -
+      artist: "Blu"
+      title: "Amnesia"
 -
   title: "Television"
   items:

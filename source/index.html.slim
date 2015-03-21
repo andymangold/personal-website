@@ -32,4 +32,7 @@ h3 Recommendations
   h3 = category.title
   ul
     - category.items.each do |recommendation|
-      li = recommendation.title
+      - if recommendation.url.present?
+        li = link_to recommendation.title, recommendation.url
+      - else
+        li = recommendation.title

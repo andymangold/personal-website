@@ -3,95 +3,231 @@
   items:
     -
       title: "A Life Well Wasted"
-      creator: "Robert Ashley"
       description: "Video game culture but not trashy"
+      url: "http://alifewellwasted.com/"
+      creators:
+        -
+          name: "Robert Ashley"
+          url: "http://twitter.com/robertashley"
     -
       title: "You Look Nice Today"
-      creator: "Merlin Mann, Scott Simpson, and Adam Lisagor"
       description: "A journal of emotional hygiene."
+      url: "http://youlooknicetoday.com/"
+      creators:
+        -
+          name: "Merlin Mann"
+          url: "http://www.merlinmann.com/"
+        -
+          name: "Scott Simpson"
+          url: "https://twitter.com/scottsimpson"
+        -
+          name: "Adam Lisagor"
+          url: "http://adamlisagor.com/"
     -
       title: "The Flophouse"
-      referred_by: "Merlin Mann"
-      creator: "Dan McCoy, Stewart Wellington, and Elliot Kalan"
       description: "Funny movie talk."
+      url: "http://www.flophousepodcast.com/"
+      referrers:
+        -
+          name: "Merlin Mann"
+          url: "http://www.merlinmann.com/"
+      creators:
+        -
+          name: "Dan McCoy"
+          url: "http://twitter.com/dankmccoy"
+        -
+          name: "Stewart Wellington"
+          url: "http://twitter.com/flophousecat"
+        -
+          name: "Elliot Kalan"
+          url: "http://twitter.com/elliottkalan"
     -
       title: "Roderick on the Line"
-      creator: "John Roderick and Merlin Mann"
       description: "John is a rock star and Merlin is a nerd and productivity evangelist."
+      url: "http://www.merlinmann.com/roderick/"
+      creators:
+        -
+          name: "John Roderick"
+          url: "http://en.wikipedia.org/wiki/John_Roderick_%28musician%29"
+        -
+          name: "Merlin Mann"
+          url: "http://www.merlinmann.com/"
     -
       title: "My Brother, My Brother, and Me"
-      creator: "Justin, Travis, and Griffin McElroy"
       description: "Funny brothers grow and become more accepting over the history of their show."
+      url: "http://www.maximumfun.org/shows/my-brother-my-brother-and-me"
+      creators:
+        -
+          name: "Justin McElroy"
+          url: "http://twitter.com/justinmcelroy"
+        -
+          name: "Travis McElroy"
+          url: "http://twitter.com/travismcelroy"
+        -
+          name: "Griffin McElroy"
+          url: "http://twitter.com/griffinmcelroy"
 -
   title: "Books"
   items:
     -
       title: "The Beginning of Infinity"
-      author: "David Deutsch"
-      referred_by: "David Cole and Mills Baker"
       description: "Theoretical physics but actually so much more!"
+      url: "http://www.amazon.com/gp/product/0143121359/?tag=anmadoco-20"
+      creators:
+        -
+          name: "David Deutsch"
+          url: "http://en.wikipedia.org/wiki/David_Deutsch"
+      referrers:
+        -
+          name: "David Cole"
+          url: "http://davidcole.me/"
+        -
+          name: "Mills Baker"
+          url: "http://metaismurder.com/"
     -
-      title: "The Traditional Way of Building"
-      author: "Christopher Alexander"
-      referred_by: "Zach Klein and Derek Lasher"
+      title: "The Timeless Way of Building"
       description: "Patterns in architecture and urban design, but so much more!"
+      url: "http://www.amazon.com/gp/product/0195024028/?tag=anmadoco-20"
+      creators:
+        -
+          name: "Christopher Alexander"
+      referrers:
+        -
+          name: "Zach Klein"
+          url: "http://zachklein.com/"
+        -
+          name: "Derek Lasher"
+          url: "http://dereklasher.com/"
     -
       title: "A Pattern Language"
-      author: "Christopher Alexander"
-      referred_by: "Zach Klein and Derek Lasher"
       description: "Patterns in architecture and urban design, but so much more!"
+      url: "http://www.amazon.com/gp/product/0195019199/?tag=anmadoco-20"
+      creators:
+        -
+          name: "Christopher Alexander"
+        -
+          name: "Sara Ishikawa"
+        -
+          name: "Murray Silverstein"
+        -
+          name: "Max Jacobson"
+        -
+          name: "Ingrid Fiksdahl-King"
+        -
+          name: "Shlomo Angel"
+      referrers:
+        -
+          name: "Zach Klein"
+          url: "http://zachklein.com/"
+        -
+          name: "Derek Lasher"
+          url: "http://dereklasher.com/"
     -
       title: "The Design of Design"
-      author: "Frederick P. Brooks"
       description: "A book about design and the design of design and the design of design of design."
+      url: "http://www.amazon.com/gp/product/0201362988/?tag=anmadoco-20"
+      creators:
+        -
+          name: "Frederick P. Brooks"
+          url: "http://en.wikipedia.org/wiki/Fred_Brooks"
     -
       title: "The Complete Calvin and Hobbes"
-      author: "Bill Watterson"
       description: "The best book in the history of the whole world."
+      url: "http://www.amazon.com/gp/product/0740748475/?tag=anmadoco-20"
+      creators:
+        -
+          name: "Bill Watterson"
+          url: "http://en.wikipedia.org/wiki/Bill_Watterson"
     -
       title: "On Writing Well"
-      author: "William Zinsser"
-      referred_by: "Merlin Mann"
       description: "About writing, but also design."
+      url: "http://www.amazon.com/gp/product/0060891548/?tag=anmadoco-20"
+      creators:
+        -
+          name: "William Zinsser"
+          url: "http://www.williamzinsserwriter.com/"
+      referrers:
+        -
+          name: "Merlin Mann"
+          url: "http://www.merlinmann.com/"
 -
   title: "Games"
   items:
     -
       title: "Minecraft"
       description: "Build things with blocks."
+      url: "http://minecraft.net/"
+      creators:
+        -
+          name: "Markus Persson"
+          url: "http://en.wikipedia.org/wiki/Markus_Persson"
     -
       title: "Carcassonne"
       description: "Build a map one block at a time."
+      url: "http://www.amazon.com/gp/product/B008ULAMSG/?tag=anmadoco-20"
+      creators:
+        -
+          name: "Klaus-J&uuml;rgen Wrede"
     -
       title: "Threes"
       description: "A tiny puzzle that grows on you."
-    -
-      title: "Chronotrigger"
-      description: "Best RPG"
+      url: "http://asherv.com/threes/"
+      creators:
+        -
+          name: "Asher Vollmer"
+          url: "http://ashervollmer.tumblr.com/home"
+        -
+          name: "Greg Wohlwend"
+          url: "http://www.aeiowu.com/"
 -
   title: "Articles"
   items:
     -
       title: "The Last Viridian Note"
-      author: "Bruce Sterling"
       description: "A piece of writing about material culture and life in general."
+      url: "http://www.worldchanging.com/archives/009061.html"
+      creators:
+        -
+          name: "Bruce Sterling"
+          url: "http://en.wikipedia.org/wiki/Bruce_Sterling"
+      referrers:
+        -
+          name: "Adam Bachman"
+          url: "http://adambachman.org/"
     -
       title: "The Case for Reparations"
-      author: "Ta-Nehisi Coates"
       description: "Excellent short history of race in America"
+      url: "http://www.theatlantic.com/features/archive/2014/05/the-case-for-reparations/361631/"
+      creators:
+        -
+          name: "Ta-Nehisi Coates"
+          url: "http://en.wikipedia.org/wiki/Ta-Nehisi_Coates"
     -
       title: "The Playboy Interview: Marshall McLuhan"
-      referred_by: "Kacy McAllister"
       description: "Smart stuff, not smut stuff!"
+      url: "http://web.cs.ucdavis.edu/~rogaway/classes/188/spring07/mcluhan.pdf"
+      creators:
+        -
+          name: "???"
+      referrers:
+        -
+          name: "Kacy McAllister"
+          url: "http://www.mica.edu/About_MICA/People/Faculty/Faculty_List_by_Last_Name/Kacy_McAllister.html"
 -
   title: "Web"
   items:
     -
       title: "TV Tropes"
       description: "The best thing."
+      url: "http://tvtropes.org/"
     -
       title: "XKCD: What If?"
-      creator: "Randall Munroe"
+      description: "Randall Munroe answers questions in great detail."
+      url: "http://what-if.xkcd.com/"
+      creators:
+        -
+          name: "Randall Munroe"
+          url: "http://en.wikipedia.org/wiki/Randall_Munroe"
     -
       title: "Wolfram Alpha"
       creator: "Stephen Wolfram"

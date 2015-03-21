@@ -30,9 +30,13 @@ ul
 h3 Recommendations
 - data.canon.each do |category|
   h3 = category.title
-  ul
+  ul.recommendation-list
     - category.items.each do |recommendation|
       - if recommendation.url.present?
-        li = link_to recommendation.title, recommendation.url
+        li
+          input type="checkbox"
+          = link_to recommendation.title, recommendation.url
       - else
-        li = recommendation.title
+        li
+          input type="checkbox"
+          = recommendation.title

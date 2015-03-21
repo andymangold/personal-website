@@ -1,0 +1,15 @@
+ul.recommendation-list {
+  margin-left: 0;
+
+  li {
+    padding: 0;
+
+    &:before {
+      content: none;
+    }
+
+    input[type="checkbox"] {
+      margin-right: 0.75em;
+    }
+  }
+}

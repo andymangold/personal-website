@@ -253,7 +253,12 @@
           url: "http://trashmoon.com/"
     -
       title: "Annie Hall"
-      description: "Woody Allen Make a Movie"
+      url: "http://en.wikipedia.org/wiki/Annie_Hall"
+      description: "Life and love in New York City"
+      creators:
+        -
+          name: "Woody Allen"
+          url: "http://en.wikipedia.org/wiki/Woody_Allen"
 -
   title: "Music"
   items:
@@ -308,9 +313,22 @@
     -
       title: "Look Around You"
       description: "Fake science"
+      url: "http://en.wikipedia.org/wiki/Look_Around_You"
+      creators:
+        -
+          name: "Robert Popper"
+          url: "http://en.wikipedia.org/wiki/Robert_Popper"
+        -
+          name: "Peter Serafinowicz"
+          url: "http://en.wikipedia.org/wiki/Peter_Serafinowicz"
     -
       title: "Star Trek: The Next Generation"
       description: "Everything good about humanity."
+      url: "http://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation"
+      creators:
+        -
+          name: "Gene Roddenberry"
+          url: "http://en.wikipedia.org/wiki/Gene_Roddenberry"
 -
   title: "Software"
   items:

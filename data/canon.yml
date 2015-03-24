@@ -294,6 +294,14 @@
           url: "http://en.wikipedia.org/wiki/Blu_%28rapper%29"
     -
       title: "Madvillainy"
+      url: "http://en.wikipedia.org/wiki/Madvillainy"
+      creators:
+        -
+          name: "Madlib"
+          url: "http://en.wikipedia.org/wiki/Madlib"
+        -
+          name: "MF Doom"
+          url: "http://en.wikipedia.org/wiki/MF_Doom"
 -
   title: "Television"
   items:

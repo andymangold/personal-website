@@ -230,16 +230,27 @@
           url: "http://en.wikipedia.org/wiki/Randall_Munroe"
     -
       title: "Wolfram Alpha"
-      creator: "Stephen Wolfram"
-    -
-      title: "This to That"
-      creator: ""
+      url: "https://www.wolframalpha.com/"
+      desription: "Computational knowledge engine"
+      creators:
+        -
+          name: "Stephen Wolfram"
+          url: "http://en.wikipedia.org/wiki/Stephen_Wolfram"
 -
   title: "Movies"
   items:
     -
       title: "Primer"
+      url: "http://en.wikipedia.org/wiki/Primer_%28film%29"
       description: "Pure essence of sci-fi time travel"
+      creators:
+        -
+          name: "Shane Carruth"
+          url: "http://en.wikipedia.org/wiki/Shane_Carruth"
+      referrers:
+        -
+          name: "Saman Bemel-Benrud"
+          url: "http://trashmoon.com/"
     -
       title: "Annie Hall"
       description: "Woody Allen Make a Movie"
@@ -247,20 +258,42 @@
   title: "Music"
   items:
     -
-      artist: "WHY?"
       title: "Alopecia"
+      url: "http://en.wikipedia.org/wiki/Alopecia_%28album%29"
+      creators:
+        -
+          name: "WHY?"
+          url: "http://en.wikipedia.org/wiki/Why%3F_(American_band)"
     -
-      artist: "Kanye West"
       title: "My Beautiful Dark Twisted Fantasy"
+      url: "http://en.wikipedia.org/wiki/My_Beautiful_Dark_Twisted_Fantasy"
+      creators:
+        -
+          name: "Kanye West"
+          url: "http://en.wikipedia.org/wiki/Kanye_West"
     -
-      artist: "Earl Sweatshirt"
       title: "Doris"
+      url: "http://en.wikipedia.org/wiki/Doris_%28album%29"
+      creators:
+        -
+          name: "Earl Sweatshirt"
+          url: "http://en.wikipedia.org/wiki/Earl_Sweatshirt"
     -
-      artist: "J Dilla"
       title: "Donuts"
+      url: "http://en.wikipedia.org/wiki/Donuts_%28album%29"
+      creators:
+        -
+          name: "J Dilla"
+          url: "http://en.wikipedia.org/wiki/J_Dilla"
     -
-      artist: "Blu"
-      title: "Amnesia"
+      title: "Her Favourite Colo(u)r"
+      url: "http://www.amazon.com/Her-Favorite-Colo-u-r/dp/B003TTZTW8/?tag=anmadoco-20"
+      creators:
+        -
+          name: "Blu"
+          url: "http://en.wikipedia.org/wiki/Blu_%28rapper%29"
+    -
+      title: "Madvillain"
 -
   title: "Television"
   items:
@@ -275,14 +308,34 @@
   items:
     -
       title: "Calca"
+      url: "http://calca.io/"
       description: "Magic app"
+      creators:
+        -
+          name: "Frank Krueger"
+          url: "https://twitter.com/praeclarum"
     -
       title: "Timehop"
+      url: "http://timehop.com/"
       description: "Makes you hate yourself but in a good way."
+    -
+      title: "Flux"
+      url: "https://justgetflux.com/"
+      description: "Computers that don't ruin your circadian rhythms."
 -
   title: "Miscellaneous"
   items:
     -
       title: "Longmont Potion Castle"
       description: "Surreal prank phone calls"
-      referred_by: "Bruce Willen and Nolen Strals of PostTypography"
+      url: "http://longmontpotioncastle.com/"
+      referrers:
+        -
+          name: "Bruce Willen"
+          url: "http://www.posttypography.com/"
+        -
+          name: "Nolen Strals"
+          url: "http://www.posttypography.com/"
+      creators:
+        -
+          name: "Anonymous"

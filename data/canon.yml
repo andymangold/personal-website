@@ -203,16 +203,23 @@
           name: "Ta-Nehisi Coates"
           url: "http://en.wikipedia.org/wiki/Ta-Nehisi_Coates"
     -
-      title: "The Playboy Interview: Marshall McLuhan"
+      title: "An Interview with Marshall McLuhan"
       description: "Smart stuff, not smut stuff!"
       url: "http://web.cs.ucdavis.edu/~rogaway/classes/188/spring07/mcluhan.pdf"
       creators:
         -
-          name: "???"
+          name: "Playboy Magazine"
       referrers:
         -
           name: "Kacy McAllister"
           url: "http://www.mica.edu/About_MICA/People/Faculty/Faculty_List_by_Last_Name/Kacy_McAllister.html"
+    -
+      title: "Personal Names Around the World"
+      url: "http://www.w3.org/International/questions/qa-personal-names"
+      creators:
+        -
+          name: "Richard Ishida"
+          url: "http://rishida.net/"
 -
   title: "Web"
   items:
@@ -346,8 +353,19 @@
       description: "Makes you hate yourself but in a good way."
     -
       title: "Flux"
-      url: "https://justgetflux.com/"
+      url: "http://justgetflux.com/"
       description: "Computers that don't ruin your circadian rhythms."
+-
+  title: "Comedy"
+  items:
+    -
+      title: "Tig Notaro — Live!"
+      description: "Tig Notaro has a bad 4 months and talks about it on stage."
+      url: "http://en.wikipedia.org/wiki/Tig_Notaro#Cancer_battle"
+      referrers:
+        -
+          name: "Louis CK"
+          url: "https://www.louisck.net/"
 -
   title: "Miscellaneous"
   items:

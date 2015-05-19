@@ -10,16 +10,11 @@ body {
 
 a {
   color: $text-color;
-  text-decoration: none;
+  text-decoration: underline;
 
   &:hover {
     color: $highlight-color;
   }
-}
-
-p a,
-li a {
-  text-decoration: underline;
 }
 
 

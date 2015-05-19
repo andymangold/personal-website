@@ -45,6 +45,6 @@ h3 Recommendations
 
 h3 Curiosities
 ul
-  - data.curiosities.each do |curiosity|
+  - data.curiosities.select { |curiosity| curiosity['type'] == 'video'}. each do |curiosity|
     li
-      = link_to curiosity.title.html_safe, curiosity.url
+      = link_to curiosity.title.html_safe, curiosity.url, class: "#{curiosity.type}"

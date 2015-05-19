@@ -318,6 +318,14 @@
   title: "Television"
   items:
     -
+      title: "Arrested Development"
+      description: "Best funny show."
+      url: "http://en.wikipedia.org/wiki/Arrested_Development_%28TV_series%29"
+      creators:
+        -
+          name: "Mitchell Hurwitz"
+          url: "http://en.wikipedia.org/wiki/Mitchell_Hurwitz"
+    -
       title: "Look Around You"
       description: "Fake science"
       url: "http://en.wikipedia.org/wiki/Look_Around_You"
@@ -366,9 +374,6 @@
         -
           name: "Louis CK"
           url: "https://www.louisck.net/"
--
-  title: "Miscellaneous"
-  items:
     -
       title: "Longmont Potion Castle"
       description: "Surreal prank phone calls"

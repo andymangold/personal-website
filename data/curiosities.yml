@@ -3,62 +3,282 @@
   url: "http://www.youtube.com/watch?v=kPRA0W1kECg"
   type: "video"
 -
-  title: "Egg Crate Foam Convoluter"
-  url: "https://www.youtube.com/watch?v=xW81Vm5tejw"
-  type: "video"
--
-  title: "List of Cognitive Biases"
-  url: "http://en.wikipedia.org/wiki/List_of_cognitive_biases"
-  type: "list"
--
   title: "Airborne Aircraft Carriers"
   url: "http://en.wikipedia.org/wiki/Airborne_aircraft_carrier"
   type: "article"
 -
-  title: "Sailing Stones"
-  url: "http://en.wikipedia.org/wiki/Sailing_stones"
-  type: "article"
--
-  title: "Tarrare"
-  url: "http://en.wikipedia.org/wiki/Tarrare"
+  title: "Ball's Pyramid"
+  url: "http://en.wikipedia.org/wiki/Ball's_Pyramid"
   type: "article"
 -
   title: "Bat Bomb"
   url: "https://en.wikipedia.org/wiki/Bat_bomb"
   type: "article"
 -
-  title: "List of Humorous Units of Measurement"
-  url: "http://en.wikipedia.org/wiki/List_of_humorous_units_of_measurement"
-  type: "list"
+  title: "Benford's Law"
+  url: "http://en.wikipedia.org/wiki/Benford's_law"
+  type: "article"
+-
+  title: "Blissymbols"
+  url: "http://en.wikipedia.org/wiki/Blissymbols"
+  type: "article"
+-
+  title: "Blobitecture"
+  url: "http://en.wikipedia.org/wiki/Blobitecture"
+  type: "article"
+-
+  title: "Blobject"
+  url: "http://en.wikipedia.org/wiki/Blobject"
+  type: "article"
 -
   title: "Bloop"
   url: "http://en.wikipedia.org/wiki/Bloop"
   type: "article"
 -
+  title: "Bouba/Kiki Effect"
+  url: "http://en.wikipedia.org/wiki/Bouba/kiki_effect"
+  type: "article"
+-
+  title: "Codex Seraphinianus"
+  url: "http://en.wikipedia.org/wiki/Codex_Seraphinianus"
+  type: "article"
+-
+  title: "Colors"
+  url: "http://www.radiolab.org/story/211119-colors/"
+  type: "audio"
+-
+  title: "Dagen H"
+  url: "http://en.wikipedia.org/wiki/Dagen_H"
+  type: "article"
+-
+  title: "Dancing Plague of 1518"
+  url: "http://en.wikipedia.org/wiki/Dancing_Plague_of_1518"
+  type: "article"
+-
+  title: "Diner Lingo"
+  url: "http://en.wikipedia.org/wiki/Diner_lingo"
+  type: "article"
+-
+  title: "Door to Hell"
+  url: "http://en.wikipedia.org/wiki/Door_to_Hell"
+  type: "article"
+-
+  title: "Egg Crate Foam Convoluter"
+  url: "https://www.youtube.com/watch?v=xW81Vm5tejw"
+  type: "video"
+-
+  title: "Eggcorn"
+  url: "http://en.wikipedia.org/wiki/Eggcorn"
+  type: "article"
+-
+  title: "Emergence"
+  url: "http://en.wikipedia.org/wiki/Emergence"
+  type: "article"
+-
+  title: "Grunge Speak"
+  url: "http://en.wikipedia.org/wiki/Grunge_speak"
+  type: "article"
+-
+  title: "H-Dagurinn"
+  url: "http://en.wikipedia.org/wiki/H-dagurinn"
+  type: "article"
+-
+  title: "Immovable Ladder"
+  url: "http://en.wikipedia.org/wiki/Immovable_Ladder"
+  type: "article"
+-
+  title: "Intertwingularity"
+  url: "http://en.wikipedia.org/wiki/Intertwingularity"
+  type: "article"
+-
+  title: "Jack Churchill"
+  url: "http://en.wikipedia.org/wiki/Jack_Churchill"
+  type: "article"
+-
+  title: "Jesus Nut"
+  url: "http://en.wikipedia.org/wiki/Jesus_nut"
+  type: "article"
+-
+  title: "Law of the Instrument"
+  url: "http://en.wikipedia.org/wiki/Law_of_the_instrument"
+  type: "article"
+-
+  title: "Linguistic Relativity"
+  url: "http://en.wikipedia.org/wiki/Linguistic_relativity"
+  type: "article"
+-
+  title: "List of Cognitive Biases"
+  url: "http://en.wikipedia.org/wiki/List_of_cognitive_biases"
+  type: "list"
+-
+  title: "List of Cryptids"
+  url: "http://en.wikipedia.org/wiki/List_of_cryptids"
+  type: "list"
+-
   title: "List of Common Misconceptions"
   url: "http://en.wikipedia.org/wiki/List_of_common_misconceptions"
   type: "list"
 -
-  title: "Ten Thousand Years"
-  url: "http://99percentinvisible.org/episode/ten-thousand-years/"
-  type: "audio"
+  title: "List of Emerging Technologies"
+  url: "http://en.wikipedia.org/wiki/List_of_emerging_technologies"
+  type: "list"
 -
-  title: "Toynbee Tiles"
-  url: "http://en.wikipedia.org/wiki/Toynbee_tiles"
+  title: "List of Humorous Units of Measurement"
+  url: "http://en.wikipedia.org/wiki/List_of_humorous_units_of_measurement"
+  type: "list"
+-
+  title: "List of Inventors Killed by their Own Inventions"
+  url: "http://en.wikipedia.org/wiki/List_of_inventors_killed_by_their_own_inventions"
+  type: "list"
+-
+  title: "List of Longest-Living Organisms"
+  url: "http://en.wikipedia.org/wiki/List_of_longest-living_organisms"
+  type: "list"
+-
+  title: "List of Memory Biases"
+  url: "http://en.wikipedia.org/wiki/List_of_memory_biases"
+  type: "list"
+-
+  title: "List of Unexplained Sounds"
+  url: "http://en.wikipedia.org/wiki/List_of_unexplained_sounds"
+  type: "list"
+-
+  title: "Memetics"
+  url: "http://en.wikipedia.org/wiki/Memetics"
+  type: "article"
+-
+  title: "Michel Siffre"
+  url: "http://en.wikipedia.org/wiki/Michel_Siffre"
+  type: "article"
+-
+  title: "Naked Came the Stranger"
+  url: "http://en.wikipedia.org/wiki/Naked_Came_the_Stranger"
   type: "article"
 -
   title: "Nomic"
   url: "http://en.wikipedia.org/wiki/Nomic"
   type: "article"
 -
+  title: "Overview Effect"
+  url: "http://en.wikipedia.org/wiki/Overview_effect"
+  type: "article"
+-
+  title: "Pattern Language"
+  url: "http://en.wikipedia.org/wiki/Pattern_language"
+  type: "article"
+-
+  title: "Paul_Erd%C5%91s"
+  url: "http://en.wikipedia.org/wiki/Paul_Erd%C5%91s"
+  type: "article"
+-
+  title: "Poe's Law"
+  url: "http://en.wikipedia.org/wiki/Poe's_law"
+  type: "article"
+-
+  title: "Psychogeography"
+  url: "http://en.wikipedia.org/wiki/Psychogeography"
+  type: "article"
+-
   title: "RPG Design Patterns"
   url: "http://rpg-design-patterns.speedykitty.com/doku.php"
   type: "book"
 -
-  title: "Tommy Westphall"
-  url: "http://en.wikipedia.org/wiki/Tommy_Westphall"
+  title: "Sailing Stones"
+  url: "http://en.wikipedia.org/wiki/Sailing_stones"
+  type: "article"
+-
+  title: "Schmidt Sting Pain Index"
+  url: "http://en.wikipedia.org/wiki/Schmidt_sting_pain_index"
+  type: "article"
+-
+  title: "Schwerer Gustav"
+  url: "http://en.wikipedia.org/wiki/Schwerer_Gustav"
+  type: "article"
+-
+  title: "Shibboleth"
+  url: "http://en.wikipedia.org/wiki/Shibboleth"
+  type: "article"
+-
+  title: "Sokushinbutsu"
+  url: "http://en.wikipedia.org/wiki/Sokushinbutsu"
+  type: "article"
+-
+  title: "Soramimi"
+  url: "http://en.wikipedia.org/wiki/Soramimi"
+  type: "article"
+-
+  title: "Space Elevator"
+  url: "http://en.wikipedia.org/wiki/Space_elevator"
+  type: "article"
+-
+  title: "Streisand Effect"
+  url: "http://en.wikipedia.org/wiki/Streisand_effect"
+  type: "article"
+-
+  title: "Sturgeon's Law"
+  url: "http://en.wikipedia.org/wiki/Sturgeon%27s_law"
+  type: "article"
+-
+  title: Tanganyika Laughter Epidemic
+  url: "http://en.wikipedia.org/wiki/Tanganyika_laughter_epidemic"
+  type: "article"
+-
+  title: "Tardigrade"
+  url: "http://en.wikipedia.org/wiki/Tardigrade"
+  type: "article"
+-
+  title: "Tarrare"
+  url: "http://en.wikipedia.org/wiki/Tarrare"
   type: "article"
 -
   title: "Telescopic Text"
   url: "http://www.telescopictext.com/"
   type: "website"
+-
+  title: "Ten Thousand Years"
+  url: "http://99percentinvisible.org/episode/ten-thousand-years/"
+  type: "audio"
+-
+  title: "Tetris Effect"
+  url: "https://en.wikipedia.org/wiki/Tetris_effect"
+  type: "article"
+-
+  title: "Timeline of the Far Future"
+  url: "http://en.wikipedia.org/wiki/Timeline_of_the_far_future"
+  type: "article"
+-
+  title: "Timothy Dexter"
+  url: "http://en.wikipedia.org/wiki/Timothy_Dexter"
+  type: "article"
+-
+  title: "Tommy Westphall"
+  url: "http://en.wikipedia.org/wiki/Tommy_Westphall"
+  type: "article"
+-
+  title: "Torino Scale"
+  url: "http://en.wikipedia.org/wiki/Torino_scale"
+  type: "article"
+-
+  title: "Toynbee Tiles"
+  url: "http://en.wikipedia.org/wiki/Toynbee_tiles"
+  type: "article"
+-
+  title: "Trap Street"
+  url: "http://en.wikipedia.org/wiki/Trap_street"
+  type: "article"
+-
+  title: "Tsar Bomba"
+  url: "http://en.wikipedia.org/wiki/Tsar_Bomba"
+  type: "article"
+-
+  title: "Tunguska Event"
+  url: "http://en.wikipedia.org/wiki/Tunguska_event"
+  type: "article"
+-
+  title: "Venera 9"
+  url: "http://en.wikipedia.org/wiki/Venera_9"
+  type: "article"
+-
+  title: "Year Without a Summer"
+  url: "http://en.wikipedia.org/wiki/Year_Without_a_Summer"
+  type: "article"

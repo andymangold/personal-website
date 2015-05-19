@@ -42,3 +42,9 @@ h3 Recommendations
         li
           input type="checkbox"
           = recommendation.title
+
+h3 Curiosities
+ul
+  - data.curiosities.each do |curiosity|
+    li
+      = link_to curiosity.title, curiosity.url

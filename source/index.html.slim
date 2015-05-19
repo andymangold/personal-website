@@ -47,4 +47,4 @@ h3 Curiosities
 ul
   - data.curiosities.each do |curiosity|
     li
-      = link_to curiosity.title, curiosity.url
+      = link_to curiosity.title.html_safe, curiosity.url

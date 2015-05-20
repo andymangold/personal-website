@@ -70,7 +70,7 @@ ul {
   li {
 
     &:before {
-      @include inline-block;
+      display: inline-block;
       content: "\2014";
       margin-left: -$list-indentation;
       width: $list-indentation;

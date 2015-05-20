@@ -42,9 +42,3 @@ h3 Recommendations
         li
           input type="checkbox"
           = recommendation.title
-
-h3 Curiosities
-ul
-  - data.curiosities.select { |curiosity| curiosity['type'] == 'video'}. each do |curiosity|
-    li
-      = link_to curiosity.title.html_safe, curiosity.url, class: "#{curiosity.type}"

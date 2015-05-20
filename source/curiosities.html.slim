@@ -1,0 +1,23 @@
+---
+title: Andy Mangold is a person.
+---
+
+h1 Curiosities
+
+h3 Text
+ul
+  - data.curiosities.select { |curiosity| curiosity['type'] == 'article'}. each do |curiosity|
+    li
+      = link_to curiosity.title.html_safe, curiosity.url, class: "#{curiosity.type}"
+
+h3 Videos
+ul
+  - data.curiosities.select { |curiosity| curiosity['type'] == 'video'}. each do |curiosity|
+    li
+      = link_to curiosity.title.html_safe, curiosity.url, class: "#{curiosity.type}"
+
+h3 Audio
+ul
+  - data.curiosities.select { |curiosity| curiosity['type'] == 'audio'}. each do |curiosity|
+    li
+      = link_to curiosity.title.html_safe, curiosity.url, class: "#{curiosity.type}"

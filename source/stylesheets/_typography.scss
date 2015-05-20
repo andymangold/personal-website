@@ -43,6 +43,18 @@ ul {
 }
 
 
+// ======
+// Blockquotes
+// ======
+
+blockquote {
+  font-style: italic;
+  border-left: 1px solid rgba($text-color, 0.1);
+  padding: 0 4%;
+  margin: 0;
+}
+
+
 
 // ======
 // List Styles

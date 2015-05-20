@@ -1,6 +1,7 @@
 ---
 date: 2011-05-16
 title: Turning My Life Into My Biggest Project Instead of the Other Way Around
+published: false
 ---
 
 I was fortunate enough to be invited to the [Art Director’s Club](http://www.adcglobal.org/ "Art Director's Club") in New York on May 4th for their annual portfolio review along with other students graduating from Art & Design schools all over the country. I have to admit, I enjoyed talking to the other students more than pitching my work to the various Art Directors, Talent Scouts, and Head Hunters who attended the event. There is a great sense of community among these people and many shared ideas and philosophies.

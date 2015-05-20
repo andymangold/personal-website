@@ -1,6 +1,7 @@
 ---
 title: A Love Letter to The Fluxus Workbook
 date: 2012-07-02
+published: false
 ---
 Fluxus is the sort of thing that many non-creative types look on with wonder and contempt. It is everything a practical parent fears when his or her child says they want to study art, and a compelling case for the ridiculousness of Art with a capital “A” to many. Inspired by work like [John Cage’s _4’33”_](http://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3) and [Marcel Duchamp’s _Fountain_](http://en.wikipedia.org/wiki/Fountain_(Duchamp)), Fluxus was a movement in the 1960’s that aimed to highlight the beauty and whimsy of the everyday and blur the line between art and the world around it. It was bold and simple, and I venture to say that most people didn’t get it. Were you to witness a Fluxus piece out of context, you’d almost certainly be profoundly confused, or completely unaware that you witnessed anything at all.
 

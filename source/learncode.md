@@ -1,7 +1,7 @@
 ---
 Date: 2011-08-31
 Title: Don’t “Learn Code” if You Don’t Want To
-Published: False
+published: false
 ---
 
 ## Original Post (2011-08-31)
@@ -40,4 +40,4 @@ That said, I have not stopped thinking about the subject, and after participatin
 
 I believe we are at a critical moment in the development of design. Designing for the web is fundamentally different than designing for any other medium due to its interactivity and foundation in time. When studying user experience, interaction and time are the most important components, more so than composition, typography, and all the other things we designers are traditionally good at. Some of the philosophies that have always guided us do not apply to this new medium, and more significantly, there are a whole new set of philosophies to be created and explored. One of the reasons I am so drawn to designing for the screen is because everything is in flux. I personally have trouble simply identifying things I believe to be successful in this new language, much less why, and this is both frustrating and exciting to me. There is much work to be done.
 
-The charge of any designer working on websites, mobile/desktop apps, or web-based products is to figure out a way to work in this new space and break out of the trap of designing these time based mediums as a series of still frames. Despite [all](http://html.adobe.com/edge/reflow/) [of](http://html.adobe.com/edge/animate/) [Adobe's](http://html.adobe.com/edge/inspect/) [efforts](http://www.adobe.com/products/muse.html), our tools remain behind the times and ill equipped for this challenge. We are forced to hack solutions together. [Edenspiekermann uses Keynote as a design tool](http://edenspiekermann.com/en/blog/espi-at-work-the-power-of-keynote), others use combinations of Photoshop, Illustrator, Fireworks, pen and paper, 
+The charge of any designer working on websites, mobile/desktop apps, or web-based products is to figure out a way to work in this new space and break out of the trap of designing these time based mediums as a series of still frames. Despite [all](http://html.adobe.com/edge/reflow/) [of](http://html.adobe.com/edge/animate/) [Adobe's](http://html.adobe.com/edge/inspect/) [efforts](http://www.adobe.com/products/muse.html), our tools remain behind the times and ill equipped for this challenge. We are forced to hack solutions together. [Edenspiekermann uses Keynote as a design tool](http://edenspiekermann.com/en/blog/espi-at-work-the-power-of-keynote), others use combinations of Photoshop, Illustrator, Fireworks, pen and paper,

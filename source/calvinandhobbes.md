@@ -1,6 +1,6 @@
-___
-Published: False
-___
+---
+published: false
+---
 
 # A Love Letter to Bill Watterson
 

@@ -1,6 +1,7 @@
 ---
 date: 2011-08-18
 title: The Golden Age and Graphic Design
+published: false
 ---
 
 I finally saw Woody Allen’s [_Midnight in Paris_](http://en.wikipedia.org/wiki/Midnight_in_Paris "Midnight in Paris on Wikipedia") this week, and I thought it was wonderful. You all should watch it. As with most Woody Allen films, and good films in general, it left me thinking about a lot of things, not least of which is the idea of the “golden age” and how it pertains to design, specifically design education.

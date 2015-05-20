@@ -1,6 +1,7 @@
 ---
 date: 2011-07-31
 title: All My Favorite Designers Aren’t Designers
+published: false
 ---
 
 These past couple months in the “real world” have reaffirmed something I have been feeling for a few years now — as much as I love design, I feel myself turning away from the world of graphic design. Four years ago, I was looking up to the likes of [Frank Chimero](http://frankchimero.com/ "Frank Chimero"), [Oliver Munday](http://www.olivermunday.com/NEW/ "Oliver Munday"), [Nick Felton](http://feltron.com/ "Nick Felton"), [Jessica Hische](http://jessicahische.is/awesome/ "Jessica Hische"), [Olly Moss](http://ollymoss.com/ "Olly Moss"), [Mikey Burton](http://mikeyburton.com/ "Mikey Burton"), and [Curtis Jinkins](http://cjinkins.com/ "Curtis Jinkins"). I admired them and dreamed of being in their shoes someday. I wanted badly to be an [ADC Young Gun](http://www.adcyoungguns.org/ "ADC Young Guns") or one of the [20 under 30](http://www.printmag.com/article/20-Under-30-The-New-Visual-Artists-Exhibition "20 Under 30"). I believe strongly in design and wanted to be skilled, influential, and recognized in my field.

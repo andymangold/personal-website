@@ -1,6 +1,7 @@
 ---
 date: 2011-04-23
 title: Kickstarter &mdash; Bubble or Revolution?
+published: false
 ---
 [Kickstarter](http://www.kickstarter.com/ "Kickstarter") has been on my mind a lot lately, and not just because I will soon be taking a project I have been pouring my heart and soul into for the last year onto it in hopes of funding large scale production. For one website, Kickstarter has certainly seems to have done a lot to change the way in which creative projects, both large and small, are funded. I have both celebrated and marveled at the wonderful projects that have received funding through the platform, including [Frank Chimero](http://www.frankchimero.com/ "Frank Chimero")‘s [_The Shape of Design_](http://www.kickstarter.com/projects/30453381/the-shape-of-design "The Shape of Design on Kickstarter") which reached its funding goal in its first day on the website and ended up raising more than four times what Frank asked for. This portfolio of funded projects seems to be the proof in the pudding that the system works. (Incidentally, I looked up the [etymology of this proof-pudding business](http://ask.yahoo.com/20020903.html), as I almost always do with idioms before I put them in writing, and it turns out that whole phrase is actually “the proof of the pudding is in the eating,” which makes a lot more sense.)
 

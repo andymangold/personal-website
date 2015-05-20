@@ -1,6 +1,7 @@
 ---
 date: 2010-10-07
 title: Social Design &amp; Design by Committee
+published: false
 ---
 I had the opportunity to watch (a couple of times, actually) the documentary [_Citizen Architect_](http://citizenarchitectfilm.com/ "Citizen Architect") almost a month ago. I have been stewing over the film, as well as social design in general, ever since, and I wanted to share some of my thoughts and perhaps start one of them fancy internet discussion things.
 

@@ -1,6 +1,7 @@
 ---
 date: 2010-11-23
 title: The Problem with Information Graphics
+published: false
 ---
 Not since I created this blog two years ago have I used it as a forum for my rants and raves, but I have grown so frustrated with the current state of “Information Graphics” and “Data Visualization” that I can no longer hold my silence. I decided to write this after finding [this “information graphic”](http://blog.ffctn.com/what-is-data-visualization "What is Data Visualization?") this morning on [Gizmodo](http://gizmodo.com/5697230/data-visualization-visualized "Data Visualization Visualized") (and as I am finishing up this article I noticed it got posted to [GOOD Magazine](http://www.good.is/post/what-is-data-visualization-asks-truly-meta-complex-venn-diagram/ "What is Data Visualization Asks Truly Meta Complex Venn Diagram") as well).
 

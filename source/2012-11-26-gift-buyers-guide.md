@@ -1,6 +1,7 @@
 ---
 title: Scrooge Writes a Gift Buyer’s Guide
 date: 2012-11-26
+published: false
 ---
 
 ’Tis the season for every columnist and blogger, in true [Oprahian](http://en.wikipedia.org/wiki/Oprah's_Favorite_Things) fashion, to carefully curate a list of their favorite things to buy for others this holiday season. I’ve long felt like a foil to these merry, gaudy-sweater-clad elves of consumerism, so I thought I would contribute my two cents and urge people to be as thoughtful as possible in their giving this year.

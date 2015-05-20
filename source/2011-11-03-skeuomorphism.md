@@ -1,6 +1,7 @@
 ---
 date: 2011-11-03 12:31
 title: Skeuomorphism &mdash; The Opiate of the People
+published: false
 ---
 
 It probably goes without saying that I am a huge fan of Apple; as is almost everyone in the design field. However, their UI, especially in iOS, has always bothered me. For a company with such excellent taste and attention to design, the [skeuomorphism](http://en.wikipedia.org/wiki/Skeuomorph "Skeuomorph on Wikipedia") of their mobile operating system seems so completely out of place. How can a company that is always on the cutting edge of hardware and experience be satisfied to cheaply emulate “real life” objects in their UI? Many people have simply written it off to taste, presuming that Apple wanted iOS to be approachable, even cute; but this argument never satisfied me. Their hardware never sold on personality. (Ok, for awhile it did, but not very well as compared to more recent products) In recent years it’s been minimal and neutral, successful for its excellence of design, build quality, and innovation.

@@ -1,5 +1,5 @@
 -
-  title: "Podcasts"
+  title: "Spoken Audio"
   items:
     -
       title: "A Life Well Wasted"
@@ -66,6 +66,21 @@
         -
           name: "Griffin McElroy"
           url: "http://twitter.com/griffinmcelroy"
+    -
+      title: "The Feynman Tapes"
+      description: "Smart guy talks on tapes"
+      url: "http://kongar-olondar.bandcamp.com/music"
+      creators:
+        -
+          name: "Richard Feynman"
+          url: "https://en.wikipedia.org/wiki/Richard_Feynman"
+        -
+          name: "Ralph Leighton"
+          url: "https://en.wikipedia.org/wiki/Ralph_Leighton"
+      referrers:
+        -
+          name: "Basheer Tome"
+          url: "http://basheertome.com/"
 -
   title: "Books"
   items:
@@ -150,6 +165,18 @@
         -
           name: "Merlin Mann"
           url: "http://www.merlinmann.com/"
+    -
+      title: "Wabi-Sabi for Artists, Designers, Poets &amp; Philosophers"
+      description: "Wabi Sabi!"
+      url: "http://www.amazon.com/gp/product/0981484603/?tag=anmadoco-20"
+      creators:
+        -
+          name: "Leonard Koren"
+          url: "http://www.leonardkoren.com/"
+      referrers:
+        -
+          name: "Keetra Dean Dixon"
+          url: "http://fromkeetra.com/"
 -
   title: "Games"
   items:
@@ -314,6 +341,13 @@
         -
           name: "MF Doom"
           url: "http://en.wikipedia.org/wiki/MF_Doom"
+    -
+      title: "Shyne Coldchain Vol. 2"
+      url: "http://www.datpiff.com/Vince-Staples-Shyne-Coldchain-Vol-2-mixtape.590712.html"
+      creators:
+        -
+          name: "Vince Staples"
+          url: "https://en.wikipedia.org/wiki/Vince_Staples"
 -
   title: "Television"
   items:

@@ -166,6 +166,14 @@
           name: "Merlin Mann"
           url: "http://www.merlinmann.com/"
     -
+      title: "The Death and Life of Great American Cities"
+      description: "Cities and social science!"
+      url: "https://www.amazon.com/Death-Life-Great-American-Cities/dp/067974195X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=anmadoco-20&linkId=a3eb10e7b5fbcb22a474ffcdb0846cd1"
+      creators:
+        -
+          name: "Jane Jacobs"
+          url: "https://en.wikipedia.org/wiki/Jane_Jacobs"
+    -
       title: "Wabi-Sabi for Artists, Designers, Poets &amp; Philosophers"
       description: "Wabi Sabi!"
       url: "http://www.amazon.com/gp/product/0981484603/?tag=anmadoco-20"
